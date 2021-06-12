@@ -1,2 +1,2 @@
 # Games
-Simples Games
+Simple Games
